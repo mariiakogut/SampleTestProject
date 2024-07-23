@@ -1,0 +1,14 @@
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\bin\Debug\net8.0\CodeReviewTestProject.exe
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\bin\Debug\net8.0\CodeReviewTestProject.deps.json
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\bin\Debug\net8.0\CodeReviewTestProject.runtimeconfig.json
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\bin\Debug\net8.0\CodeReviewTestProject.dll
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\bin\Debug\net8.0\CodeReviewTestProject.pdb
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\obj\Debug\net8.0\CodeReviewTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\obj\Debug\net8.0\CodeReviewTestProject.AssemblyInfoInputs.cache
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\obj\Debug\net8.0\CodeReviewTestProject.AssemblyInfo.cs
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\obj\Debug\net8.0\CodeReviewTestProject.csproj.CoreCompileInputs.cache
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\obj\Debug\net8.0\CodeReviewTestProject.dll
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\obj\Debug\net8.0\refint\CodeReviewTestProject.dll
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\obj\Debug\net8.0\CodeReviewTestProject.pdb
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\obj\Debug\net8.0\CodeReviewTestProject.genruntimeconfig.cache
+C:\Users\mkogut\gitProjects\CodeReviewTestProject\obj\Debug\net8.0\ref\CodeReviewTestProject.dll
